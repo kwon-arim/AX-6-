@@ -1,3 +1,4 @@
 team: Python
 manager: Lee
 members: Anna, Yang
+members: Yang, Chae
